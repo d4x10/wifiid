@@ -1,1 +1,1 @@
-# wifiid
+# Wifi.Id Generator + Checker
