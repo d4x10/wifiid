@@ -19,5 +19,5 @@ mobile_number=+6288216267647
 email=gidhanba@gmail.com
 password=sarkem123
 age=20
-country=Indonesia
-city=Semarang
+negara=Indonesia
+kota=Semarang
